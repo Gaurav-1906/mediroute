@@ -1,0 +1,15 @@
+{
+  "name": "mediroute",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MediRoute academic ambulance route-finding simulator",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

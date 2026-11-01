@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "MediRoute Dashboard" },
+    { "path": "/route", "title": "Route Finder" },
+    { "path": "/nearest", "title": "Nearest Hospital" },
+    { "path": "/visualizer", "title": "Algorithm Visualizer" },
+    { "path": "/quality", "title": "Testing & Quality" }
+  ]
+}
